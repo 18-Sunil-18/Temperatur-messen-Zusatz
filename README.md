@@ -39,3 +39,5 @@ e= maximum Ausgabewert
 Nach der Umwandlung des analogen Messwertes in einen Temperaturwert, wird dieser mit dem Befehl „Serial.print(temperatur);“ an den seriellen Monitor gesendet und kann dann am PC abgelesen werden.
 
 Weitere Infos: https://funduino.de/
+&
+https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806
